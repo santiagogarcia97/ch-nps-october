@@ -3,7 +3,7 @@ import Graph from "./Graph";
 import GraphAnswer2 from "./GraphAnswer2";
 import { SurveyAnswer } from "./Interfaces";
 
-const answers: SurveyAnswer[] = require("./answers4.json");
+const answers: SurveyAnswer[] = require("./answers5.json");
 
 const App = () => {
   const answered = answers.filter((e) => e.score !== null);
@@ -23,7 +23,7 @@ const App = () => {
     <div className="max-w-screen-md lg:max-w-screen-lg mx-auto bg-gray-50 p-3">
       <div className="w-full py-5 px-4 text-gray-700 relative">
         <div className="w-full pb-4 text-2xl font-bold text-gray-700">
-          CODERHOUSE APP - NPS Agosto 2022
+          CODERHOUSE APP - NPS Septiembre 2022
         </div>
         {/*
         <div className="w-full py-0.5 text-sm font-normal text-gray-700 text-justify">
@@ -52,7 +52,7 @@ const App = () => {
           </tbody>
         </table>
         <div className="absolute right-0 top-0 text-xs">
-          Actualizado: 02/09/2022 13:10
+          Actualizado: 23/09/2022 17:35
         </div>
       </div>
 

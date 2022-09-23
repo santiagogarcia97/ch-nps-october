@@ -1,8 +1,8 @@
 {
-  "name": "survey4-front",
+  "name": "survey5-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mapplics.github.io/ch-nps-august-22",
+  "homepage": "https://santiagogarcia97.github.io/ch-nps-september",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
