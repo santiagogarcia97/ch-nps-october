@@ -1,8 +1,8 @@
 {
-  "name": "survey5-front",
+  "name": "survey6-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://santiagogarcia97.github.io/ch-nps-september",
+  "homepage": "https://santiagogarcia97.github.io/ch-nps-october",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
